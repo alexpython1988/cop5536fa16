@@ -1,3 +1,8 @@
+Desc:
+this is a course project for cop5536 advanced data structure
+the project is to use a fibonacci heap to store hashtags based on their appeared frequency. The hashtag with the max frequency will be store at the root (The heap is a max heap).
+
+How to run the program:
 under current directory use make commend to compile all the source files:
 make
 
